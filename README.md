@@ -1,3 +1,3 @@
 # Spotify-Song-Popularity
 
-This contains the code portion of my capstone project.
+This contains the report and code from my capstone project.
